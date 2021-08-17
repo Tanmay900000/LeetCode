@@ -1,2 +1,2 @@
 # LeetCode
-[My LeetCode Accoubt](https://leetcode.com/tanmay09/)
+[My LeetCode Account](https://leetcode.com/tanmay09/)
